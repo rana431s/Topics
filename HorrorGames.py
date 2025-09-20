@@ -16,10 +16,10 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Horror Games ", "Reddit Update", "Reddit Game Advice", "Reddit Games", 
-"Reddit Horror games", "AITA Update", "Dead people", "Dangerous Games", 
+ "Horror Games ", "viral games", "sport games", "hiking games", 
+"kids games", "war games", "Death games", "Dangerous Games", 
 "Scary Stories", "Silent Hill", "Death Stranding", "The Witcher 3: Wild Hunt", 
-"Death Reset", "Resident Evil ", "The Last of Us"
+"Death Reset", "Resident Evil ", "The Last of Us", "scary games"
 ]
 
 # Fetch Data Button
